@@ -1,0 +1,15 @@
+C:\Users\r4z0r\source\repos\OOPAdventure\OOPAdventure\bin\Debug\net7.0\OOPAdventure.exe
+C:\Users\r4z0r\source\repos\OOPAdventure\OOPAdventure\bin\Debug\net7.0\OOPAdventure.deps.json
+C:\Users\r4z0r\source\repos\OOPAdventure\OOPAdventure\bin\Debug\net7.0\OOPAdventure.runtimeconfig.json
+C:\Users\r4z0r\source\repos\OOPAdventure\OOPAdventure\bin\Debug\net7.0\OOPAdventure.dll
+C:\Users\r4z0r\source\repos\OOPAdventure\OOPAdventure\bin\Debug\net7.0\OOPAdventure.pdb
+C:\Users\r4z0r\source\repos\OOPAdventure\OOPAdventure\obj\Debug\net7.0\OOPAdventure.csproj.AssemblyReference.cache
+C:\Users\r4z0r\source\repos\OOPAdventure\OOPAdventure\obj\Debug\net7.0\OOPAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r4z0r\source\repos\OOPAdventure\OOPAdventure\obj\Debug\net7.0\OOPAdventure.AssemblyInfoInputs.cache
+C:\Users\r4z0r\source\repos\OOPAdventure\OOPAdventure\obj\Debug\net7.0\OOPAdventure.AssemblyInfo.cs
+C:\Users\r4z0r\source\repos\OOPAdventure\OOPAdventure\obj\Debug\net7.0\OOPAdventure.csproj.CoreCompileInputs.cache
+C:\Users\r4z0r\source\repos\OOPAdventure\OOPAdventure\obj\Debug\net7.0\OOPAdventure.dll
+C:\Users\r4z0r\source\repos\OOPAdventure\OOPAdventure\obj\Debug\net7.0\refint\OOPAdventure.dll
+C:\Users\r4z0r\source\repos\OOPAdventure\OOPAdventure\obj\Debug\net7.0\OOPAdventure.pdb
+C:\Users\r4z0r\source\repos\OOPAdventure\OOPAdventure\obj\Debug\net7.0\OOPAdventure.genruntimeconfig.cache
+C:\Users\r4z0r\source\repos\OOPAdventure\OOPAdventure\obj\Debug\net7.0\ref\OOPAdventure.dll
